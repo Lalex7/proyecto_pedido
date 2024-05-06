@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120418908943",
+    "project_id": "proyecto-pedido",
+    "storage_bucket": "proyecto-pedido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120418908943:android:5c4314ac5b753ee8c3dc7a",
+        "android_client_info": {
+          "package_name": "com.hp_admin.proyecto_pedido"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5r3_CEZu8H-FjU-Gz3CifE-E5zTDqUQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
